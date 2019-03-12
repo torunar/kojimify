@@ -2,6 +2,10 @@
 
 ## Ingenious text processing package
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/b/torunar/kojimify/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/b/torunar/kojimify/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/b/torunar/kojimify/badges/coverage.png?b=master)](https://scrutinizer-ci.com/b/torunar/kojimify/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/b/torunar/kojimify/badges/build.png?b=master)](https://scrutinizer-ci.com/b/torunar/kojimify/build-status/master)
+
 ### How-to
 
 Create text processor:
